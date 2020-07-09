@@ -1,4 +1,5 @@
-Msc. Student Computer Science at UFBA,   __init__ Python, Dev Front-END and Data Science 
+- Msc. Student Computer Science at UFBA
+- Dev Front-End and Data Science 
 
 <!--
 **icaroramiires/icaroramiires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
